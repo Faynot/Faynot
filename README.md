@@ -1,20 +1,43 @@
-Nikita Kuzmin
-Fullstack developer 
-@faynotobglotish            github.com/Faynot            faynotdev@gmail.com
+<h1>Nikita Kuzmin</h1>
+<h2>Fullstack developer</h2>
 
-Technical Skills
-Programming Languages: JavaScript, Rust, python, php.
-Frontend Development: React, Sass, HTML/HTMX,  Next.js, Node.js.
-Other Technologies: Docker, Git, SQL, WebSockets, redis, Linux.
+<ul>
+    <li>@faynotobglotish</li>
+    <li>github.com/Faynot</li>
+    <li>faynotdev@gmail.com</li>
+</ul>
 
-Work Experience
-Fullstack developer
+<h1>Technical Skills</h1>
+<h2>Programming Languages: </h2>
+<ul>
+  <li>JavaScript</li>
+  <li>Rust</li>
+  <li>python</li>
+  <li>php.</li>
+</ul>
+<h2>Frontend Development:</h2>
+<ul>
+  <li>React</li>
+  <li>Sass</li>
+  <li>HTML/HTMX</li>
+  <li>Next.js</li>
+  <li>Node.js.</li>
+</ul>
+<h2>Other Technologies: </h2>
+<ul>
+  <li>Docker</li>
+  <li>Git</li>
+  <li>SQL</li>
+  <li>WebSockets</li>
+  <li>redis</li>
+  <li>Linux.</li>
+</ul>
+
+<h1>Work Experience</h1>
+
+<h2>Fullstack developer</h2>
 Company: Vitax RP - Minecraft server network in Russia
 Developed a page with the publication of cities on the Server, using databases, Java Script, Rust and SQL. Worked for 3 years
 
-Open-Source Projects
-Glint - Beta version of my programming language. in this beta, unlike the release, there are only basic features, like a Turing language. Written in Rust. (Github)
-Wisper - An anonymous messenger, sort of like a telegram. Written in Rust and JavaScript (Github)
-Rustscape - a tool that makes it easy to find, analyze and visualize resources (libraries, frameworks, etc.) in the Rust ecosystem (Gitub)
-About me
-I love my job, in general I have been studying and have been in this business for about 6 years, starting with game development and ending with system programming. But most of all, I like to develop in web development, develop websites and work in a team
+<h1>Open-Source Projects</h1>
+later...
