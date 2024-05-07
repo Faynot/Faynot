@@ -40,4 +40,5 @@ Company: Vitax RP - Minecraft server network in Russia
 Developed a page with the publication of cities on the Server, using databases, Java Script, Rust and SQL. Worked for 3 years
 
 <h1>🔓Open-Source Projects</h1>
-PROTOF - <a href="https://github.com/Faynot/protoF">click</a>
+<h2>PROTOF - <a href="https://github.com/Faynot/protoF">click</a></h2>
+<p>its terminal utility for creating protocols (shell scripts with a user-friendly interface)</p>
