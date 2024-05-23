@@ -41,4 +41,4 @@ Developed a page with the publication of cities on the Server, using databases, 
 
 <h1>🔓Open-Source Projects</h1>
 <h2>PROTOF - <a href="https://github.com/Faynot/protoF">click</a></h2>
-<p>its terminal utility for creating protocols (shell scripts with a user-friendly interface)</p>
+<p>its terminal utility for developers (shell scripts with a user-friendly interface)</p>
