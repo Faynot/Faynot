@@ -37,7 +37,7 @@
 
 <h2>Fullstack developer</h2>
 Company: Vitax RP - Minecraft server network in Russia
-Developed a page with the publication of cities on the Server, using databases, Java Script, Rust and SQL. Worked for 3 years
+Developed a page with the publication of cities on the Server, using databases, React.js, Rust and SQLite. Worked for 3 years
 
 <h1>🔓Open-Source Projects</h1>
 <h2>PROTOF - <a href="https://github.com/Faynot/protoF">click</a></h2>
