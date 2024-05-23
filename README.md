@@ -3,7 +3,7 @@
 
 <ul>
     <li>💼 @faynotobglotish TELEGRAM</li>
-    <li>🎆 github.com/Faynot GITHUB</li>
+    <li>🎆 github.com/Faynot GITHUB (brah)</li>
     <li>📫 faynotdev@gmail.com EMAIL</li>
 </ul>
 
