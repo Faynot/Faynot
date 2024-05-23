@@ -21,7 +21,10 @@
   <li>Sass</li>
   <li>HTML/HTMX</li>
   <li>Next.js</li>
-  <li>Node.js.</li>
+</ul>
+<h2>🖥Backend Development:</h2>
+<ul>
+    <li>Node.js.</li>
 </ul>
 <h2>🍙Other Technologies: </h2>
 <ul>
