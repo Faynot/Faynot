@@ -1,47 +1,16 @@
-<h1>Nikita Kuzmin🎀</h1>
-<h2>Fullstack developer</h2>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Header</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-<ul>
-    <li>💼 @faynotobglotish TELEGRAM</li>
-    <li>🎆 github.com/Faynot GITHUB (brah)</li>
-    <li>📫 faynotdev@gmail.com EMAIL</li>
-</ul>
+<div class="header">
+    <h1>My GitHub Profile</h1>
+    <p> Ya krutoy specialist !</p>
+</div>
 
-<h1>💻Technical Skills</h1>
-<h2>💻Programming Languages: </h2>
-<ul>
-  <li>JavaScript</li>
-  <li>Rust</li>
-  <li>python</li>
-  <li>php.</li>
-</ul>
-<h2>☕Frontend Development:</h2>
-<ul>
-  <li>React</li>
-  <li>Sass</li>
-  <li>HTML/HTMX</li>
-  <li>Next.js</li>
-</ul>
-<h2>🖥Backend Development:</h2>
-<ul>
-    <li>Node.js.</li>
-</ul>
-<h2>🍙Other Technologies: </h2>
-<ul>
-  <li>Docker</li>
-  <li>Git</li>
-  <li>SQL</li>
-  <li>WebSockets</li>
-  <li>redis</li>
-  <li>Linux.</li>
-</ul>
-
-<h1>💼Work Experience</h1>
-
-<h2>Fullstack developer</h2>
-Company: Vitax RP - Minecraft server network in Russia
-Developed a page with the publication of cities on the Server, using databases, React.js, Rust and SQLite. Worked for 3 years
-
-<h1>🔓Open-Source Projects</h1>
-<h2>PROTOF - <a href="https://github.com/Faynot/protoF">click</a></h2>
-<p>its terminal utility for developers (shell scripts with a user-friendly interface)</p>
+</body>
+</html>
