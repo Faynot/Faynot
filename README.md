@@ -5,8 +5,7 @@ I am a full stack developer, I am 15 years old. I know the following programming
 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Faynot=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faynot&show_icons=true&theme=radical)
 
 * 🌍  I'm based in Russia: Rostov-On-Don🇷🇺
 * 🖥️  See my resume at [this](https://docs.google.com/document/d/1JnORS8XYzT0MkLiTvhZ4Kca-Z9RQNXioO3SnqmPphz4/edit?usp=sharing)
