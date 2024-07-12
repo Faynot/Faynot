@@ -7,7 +7,8 @@ I am a full stack developer, I am 15 years old. I know the following programming
 
 * 🌍  I'm based in Russia: Rostov-On-Don🇷🇺
 * 🖥️  See my portfolio at [this](https://docs.google.com/document/d/1JnORS8XYzT0MkLiTvhZ4Kca-Z9RQNXioO3SnqmPphz4/edit?usp=sharing)
-* ✉️  You can contact me at [faynotdev@gmail.com](mailto:faynotdev@gmail.com)* 🚀  I'm currently working on [INF PACK](https://infpack.lol/)
+* ✉️  You can contact me at [faynotdev@gmail.com](mailto:faynotdev@gmail.com)
+* 🚀  I'm currently working on [INF PACK](https://infpack.lol/)
 * 🧠  I'm learning Vue
 * 🤝  I'm open to collaborating on Telegram - @faynotobglotish
 * ⚡  look at this cat:
