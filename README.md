@@ -6,7 +6,7 @@ I am a full stack developer, I am 15 years old. I know the following programming
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Faynot&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Faynot=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 * 🌍  I'm based in Russia: Rostov-On-Don🇷🇺
 * 🖥️  See my resume at [this](https://docs.google.com/document/d/1JnORS8XYzT0MkLiTvhZ4Kca-Z9RQNXioO3SnqmPphz4/edit?usp=sharing)
