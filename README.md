@@ -26,7 +26,7 @@ I am a full stack developer, I am 15 years old.
 
 * 🖥️  See my resume at [this](https://docs.google.com/document/d/1JnORS8XYzT0MkLiTvhZ4Kca-Z9RQNXioO3SnqmPphz4/edit?usp=sharing)
 
-* ✉️  You can contact me at [faynotdev@gmail.com](mailto:faynotdev@gmail.com) and Telegram - [@faynotobglotish](https://t.me/faynotobglotish)
+* ✉️  You can contact me at my email - [faynotdev@gmail.com](mailto:faynotdev@gmail.com) and Telegram - [@faynotobglotish](https://t.me/faynotobglotish)
 
 * 🚀  I'm currently working on [INF PACK](https://infpack.lol/) and [ProtoF](https://github.com/Faynot/protoF)
 
