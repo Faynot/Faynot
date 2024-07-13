@@ -22,7 +22,7 @@ I am a full stack developer, I am 15 years old.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faynot&show_icons=true&theme=radical)
 
 ## Other
-* 🌍  I'm based in Russia: Rostov-On-Don🇷🇺
+* 🌍  I'm based in Russia: Rostov-on-Don🇷🇺
 
 * 🖥️  See my resume at [this](https://docs.google.com/document/d/1JnORS8XYzT0MkLiTvhZ4Kca-Z9RQNXioO3SnqmPphz4/edit?usp=sharing)
 
