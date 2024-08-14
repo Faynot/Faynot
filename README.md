@@ -34,4 +34,4 @@ I am a full stack developer, I am 15 years old.
 
 * ⚡  look at this cat:
 
-![](https://media.discordapp.net/attachments/1261280181977616458/1261283848851951697/image.png?ex=6692659f&is=6691141f&hm=99c0ccdba6d3d2fd1c1fae5c538e708e2117adfaeef0ff336e047961742e90f8&=&format=webp&quality=lossless)
+![](Screenshot_86.png)
