@@ -28,7 +28,7 @@ I am a full stack developer, I am 15 years old.
 
 * ✉️  You can contact me at my email - [faynotdev@gmail.com](mailto:faynotdev@gmail.com) and Telegram - [@faynotobglotish](https://t.me/faynotobglotish)
 
-* 🚀  I'm currently working on [INF PACK](https://infpack.lol/) and [ProtoF](https://github.com/Faynot/protoF)
+* 🚀  I'm currently working on [Glint](https://github.com/Glint-Lang/Glint) and [Blooemu](https://crates.io/crates/blooemu/)
 
 * 🧠  I'm learning Vue
 
