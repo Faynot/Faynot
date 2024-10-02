@@ -19,7 +19,7 @@ I am a full stack developer, I am 15 years old.
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faynot&show_icons=true&theme=radical)
+![Faynot's Stats](https://github-readme-stats.vercel.app/api?username=Faynot&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ## Other
 * 🌍  I'm based in Russia: Rostov-on-Don🇷🇺
