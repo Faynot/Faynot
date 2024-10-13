@@ -18,7 +18,7 @@ I am a full stack developer, I am 15 years old.
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 
-![](./img/f.png)
+![](./img/fa.png)
 
 ## Other
 * 🌍  I'm based in Russia: Rostov-on-Don🇷🇺
