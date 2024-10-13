@@ -1,6 +1,6 @@
 ![](https://cdn.discordapp.com/attachments/1261280181977616458/1261288962836660306/carbon.png?ex=66926a62&is=669118e2&hm=a0bd1b99d76ecba7785abb2b7cbf49a76cd129ac555df02f5aaf987187063d92&)
 
-# Hi 👋 My name is Nikita
+# 👋 Hi My name is Nikita
 ## Fullstack TS/PYTHON Developer
 
 I am a full stack developer, I am 15 years old. 
