@@ -4,7 +4,7 @@
 ## Fullstack TS/PYTHON Developer
 
 I am a full stack developer, I am 15 years old. 
-### I know the following programming languages:
+### I know the following skills:
 ![](./img/fa.png)
 
 ### I know the following frameworks/libraries:
